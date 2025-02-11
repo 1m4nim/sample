@@ -1,0 +1,28 @@
+{
+  "title": "人気の果物",
+  "description": "さまざまな果物の価格と説明が含まれています。",
+  "lastUpdated": "2025-02-11T12:00:00Z",
+  "fruits": [
+    {
+      "id": 1,
+      "name": "りんご",
+      "price": 120,
+      "description": "新鮮な赤いりんご。日本産。",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "バナナ",
+      "price": 80,
+      "description": "南米産のバナナ。甘みが特徴。",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "オレンジ",
+      "price": 150,
+      "description": "ジューシーなオレンジ。ビタミンC豊富。",
+      "available": false
+    }
+  ]
+}
